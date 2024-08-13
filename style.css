@@ -1,0 +1,104 @@
+.box {
+    background-color: red;
+    height: 565px; width: 20%;
+    margin: auto; text-align: center;
+    border: 1px solid red;
+}
+.box h2 {
+    color: white; text-align: center;
+    margin-top: 30px;
+}
+.box1 {
+    background-color: white;
+    height: 110px; width: 60%;
+    margin: auto; text-align: center;
+    border: 1px solid white; 
+    border-radius: 10%;
+}
+.text1 {
+    font-size: 10px; margin-left: -45px;
+    margin-top: 5px;
+}
+.text2 {
+    font-size: 10px; margin-left: 80px;
+    margin-top: 15px;
+}
+.rec1 {
+    background-color: pink;
+    height: 80px; width: 15%;
+    margin-left: 40px;
+    margin-top: -34.5px;
+}
+.rec2 {
+    background-color: blue;
+    height: 30px; width: 15%;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+.box h2 {
+    color: white; text-align: center;
+    margin-top: 30px;
+}
+.box2 {
+    background-color: white;
+    height: 110px; width: 60%;
+    margin: auto; text-align: center;
+    border: 1px solid white; 
+    border-radius: 10%;
+}
+.text3 {
+    font-size: 10px; margin-left: -45px;
+    margin-top: 38px;
+}
+.text4 {
+    font-size: 10px; margin-left: 80px;
+    margin-top: -55px;
+}
+.rec3 {
+    background-color: blue;
+    height: 30px; width: 15%;
+    margin-left: 40px;
+    margin-top: 52.5px;
+}
+.rec4 {
+    background-color: pink;
+    height: 80px; width: 15%;
+    margin-left: 100px;
+    margin-top: -80px;
+}
+.box3 {
+    background-color: white;
+    height: 30px; width: 60%;
+    margin: auto; text-align: center;
+    border: 1px solid white; margin-top: 40px;
+    border-radius: 5%;
+}
+.box h5 {
+    margin-top: 8px; text-align: center;
+}
+.box4 {
+    background-color: white;
+    height: 1px; width: 100%;
+    margin: auto; text-align: center;
+    border: white; margin-top: 20px;
+}
+.box h2 {
+    color: white; text-align: center;
+    margin-top: 30px;
+}
+.box h6 {
+    color: white; text-align: center;
+    margin-top: -20px;
+}
+.box5 {
+    background-color: black;
+    height: 20px; width: 100%;
+    margin: auto; text-align: center;
+    border: black; margin-top: -20px;
+}
+.box5 i {
+    margin-top: 10px; text-align: center;
+    color: white;
+}
+
+
